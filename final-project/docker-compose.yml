@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "5000:80"
+    volumes:
+      - ./backend:/app
+    working_dir: /app
+    command: ["dotnet", "TodoApi.dll"]
+  
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
