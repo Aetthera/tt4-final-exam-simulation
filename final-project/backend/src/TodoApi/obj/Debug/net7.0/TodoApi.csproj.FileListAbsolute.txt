@@ -1,0 +1,7 @@
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.csproj.AssemblyReference.cache
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.AssemblyInfoInputs.cache
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.AssemblyInfo.cs
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/alena.belova/Library/Mobile Documents/com~apple~CloudDocs/Prof_School/Trends in Tech/tt4-final-exam-simulation/final-project/backend/src/TodoApi/obj/Debug/net7.0/TodoApi.MvcApplicationPartsAssemblyInfo.cache
